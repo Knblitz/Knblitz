@@ -1,9 +1,9 @@
 <h1 align="center">🌟 Hi there! I'm Khen 👋</h1>
 
 <p align="center">
-  A passionate and driven student in **IT Application Development**, specializing in bridging clean code with user-friendly design.
+  A passionate and driven student in *IT Application Development*, specializing in bridging clean code with user-friendly design.
   <br>
-  Currently leveraging my skills in geospatial applications through an enriching internship at the **Singapore Land Authority (SLA)**.
+  Currently leveraging my skills in geospatial applications through an enriching internship at the *Singapore Land Authority (SLA)*.
 </p>
 
 ---
