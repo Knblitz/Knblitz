@@ -32,14 +32,6 @@ My commitment goes beyond technical skills into continuous learning and leadersh
 
 ---
 
-## 🚀 Recent Focus
-
-I use GitHub to track my progress and collaborate on projects, particularly in these areas:
-
-* **Geospatial Web Apps:** Developing and designing interfaces for data visualization and routing projects during my current internship.
-* **Full-Stack Prototyping:** Building small-scale applications to practice connecting front-end interfaces with back-end logic and databases.
-
----
 
 ### 🔥 GitHub Stats
 
