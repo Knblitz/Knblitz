@@ -45,7 +45,7 @@ I use GitHub to track my progress and collaborate on projects, particularly in t
 *(These badges give a quick overview of my activity on GitHub.)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**Knblitz**&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Khen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KnblitZ&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Khen's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**Knblitz**&layout=compact&theme=midnight-purple&hide_border=true" alt="Khen's Top Languages" />
 </p>
 
