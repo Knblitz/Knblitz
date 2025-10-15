@@ -42,7 +42,6 @@ I use GitHub to track my progress and collaborate on projects, particularly in t
 ---
 
 ### 🔥 GitHub Stats
-*(These badges give a quick overview of my activity on GitHub.)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KnblitZ&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Khen's GitHub Stats" />
